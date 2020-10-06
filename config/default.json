@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://practicalAdmin:1FUMrNyFFjiC5IRY@cluster0.cxfbp.mongodb.net/practicalTest?retryWrites=true&w=majority",
+    "jwtSecret": "pcTest_jwtSec"
+}
